@@ -1,9 +1,3 @@
-import java.util.HashMap;
-import java.util.Map;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Arrays;
-
 class Solution {
     public int[] productExceptSelf(int[] nums) {
         int product = 1;
