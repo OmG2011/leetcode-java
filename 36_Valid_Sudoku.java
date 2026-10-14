@@ -1,6 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
+import java.util.HashSet;
 
 class Solution {
     public boolean isValidSudoku(char[][] board) {
